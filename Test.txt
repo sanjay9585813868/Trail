@@ -1,1 +1,29 @@
-Test file of main
+basic command of git
+---------------------
+
+ git init --> to initialize a git repository in local project folder
+
+ git pull -->to get file or changes made in github to local project folder
+
+ git clone (url or link of the repository)--> to clone repository in local project folder
+
+ git branch --> to check current branch
+
+ git branch -a --> to check no. of branch
+
+ git add filename.type --> to add modified file to staging state
+ git add .   or git add *  --> to add all modified files to staging state         
+
+ git commit -m "your message"--> to save modification
+
+ git push origin main/branch name--> to push files from staging state to github
+
+ git checkout branch name (example :- git checkout Team2)-->to change from one branch to another
+
+ git status --> to find the status of the file
+
+ git merge branch name--> to merge sub branch with main branch
+
+ git remote add orgin (url or link of the repository)
+
+
